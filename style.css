@@ -8,6 +8,7 @@ header {
     justify-content: space-between;
     align-items: center;
     background-color: #E6E2DD;
+    position: fixed;
 }
 
 header>img {
