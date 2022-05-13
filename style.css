@@ -9,6 +9,7 @@ header {
     align-items: center;
     background-color: #E6E2DD;
     position: fixed;
+    margin: 0 10px 0 2px;
 }
 
 header>img {
