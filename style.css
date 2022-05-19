@@ -8,6 +8,8 @@ header {
     justify-content: space-between;
     align-items: center;
     background-color: #E6E2DD;
+    position: fixed;
+    margin: 0 10px 0 2px;
 }
 
 header>img {
@@ -26,7 +28,7 @@ header>img {
 
 .article {
     text-align: center;
-    padding: 2% 25%;
+    padding: 10% 25% 2% 25%;
     margin-bottom: 40px;
 }
 
